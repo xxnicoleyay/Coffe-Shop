@@ -1,2 +1,2 @@
 # Coffee-Tayo.github.io
-coffee shop
+Coffee-Tayo.github.io
